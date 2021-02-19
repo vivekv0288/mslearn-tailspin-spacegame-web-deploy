@@ -7,7 +7,7 @@ variables:
 
 schedules:
 - cron: '0/10 * * * *'
-  displayName: Deploy every day at 10 min.
+  displayName: Deploy every day at 11 min.
   branches:
     include:
     - release
